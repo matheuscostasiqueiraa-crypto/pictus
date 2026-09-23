@@ -1,7 +1,10 @@
-<a href="https://github.com/matheuscostasiqueiraa-crypto/pictus">
-  <img src="https://github.com/user-attachments/assets/cc8e5b84-deb4-4dd2-92ac-417f64061d3f" alt="Banner Pictus" style="width: 100%; max-width: 100%; display: block;" />
-</a>
+<img src="https://github.com/user-attachments/assets/cc8e5b84-deb4-4dd2-92ac-417f64061d3f" alt="Banner Pictus" width="100%" />
 
-# pictus
+# PICTUS
 
-Editor de imagens e arte digital offline PWA
+## 🖌️ Editor de imagens e arte digital offline PWA
+
+---
+
+### 🚀 Sobre o Projeto
+O **PICTUS** é um aplicativo PWA voltado para criação de arte digital, edição e manipulação de imagens diretamente no navegador, funcionando de forma 100% offline.
